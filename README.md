@@ -7,7 +7,7 @@
 - 🔭  I’m currently working as iOS Developer at [Compasso UOL](https://compassouol.com) outsourced to [PagSeguro](https://pagseguro.uol.com.br)
 - 🤔  I love to explore new technologies and learn new stuff
 - 🖥  I’m currently learning more about iOS Best practices and Swift coding standards
-- 😛  Fun Fact: I lived in London for an year studing Eletronic Engineering and Computing at Queen Mary University of London
+- 😛  Fun Fact: I lived in London for an year studing Electronic Engineering and Computing at Queen Mary - University of London
 
 ### ⚙️ &nbsp;GitHub Analytics
 
