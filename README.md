@@ -1,7 +1,7 @@
 <h2> Hello there, I'm Victor 👋</h2>
 
 - 🎓  I'm a Computer Engineering BEng from University of Brasilia 
-- 🏡  Currently living in Brasilia, Brazil
+- 🏡  Living in Brasilia, Brazil
 - 🔭  I’m currently working as iOS Developer at [Compasso UOL](https://compassouol.com) outsourced to [PagSeguro](https://pagseguro.uol.com.br)
 - 🤔  I love to explore new technologies and learn new stuff
 - 🖥  I’m currently learning more about iOS Best practices and Swift coding standards
