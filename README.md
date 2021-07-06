@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm a Computer Engineering BEng from University of Brasilia 
-- 🔭 I’m currently working as iOS Developer at [Compasso UOL](https://compassouol.com) outsourced to [PagSeguro](https://pagseguro.com)
+- 🔭 I’m currently working as iOS Developer at [Compasso UOL](https://compassouol.com) outsourced to [PagSeguro](https://pagseguro.uol.com.br)
 - 🤔 I love to explore new technologies and learn new stuff
 - 🌱 I’m currently learning more about iOS Best practices and Swift coding standards
 - 😄 Pronouns: She/Her
