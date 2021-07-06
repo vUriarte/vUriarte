@@ -2,7 +2,7 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🎓  I'm a Computer Engineering BEng from University of Brasilia 
+- 🎓  I'm a Computer Engineering BEng at University of Brasilia 
 - 🏡  Living in Brasilia, Brazil
 - 🔭  I’m currently working as iOS Developer at [Compasso UOL](https://compassouol.com) outsourced to [PagSeguro](https://pagseguro.uol.com.br)
 - 🤔  I love to explore new technologies and learn new stuff
