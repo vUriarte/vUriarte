@@ -1,4 +1,4 @@
-<h2> Hello ! I'm Victor.</h2>
+<h2> Hello there 👋 I'm Victor</h2>
 
 - 🎓 I'm a Computer Engineering BEng from University of Brasilia 
 - 🏡 Currently living in Brasilia, Brazil
